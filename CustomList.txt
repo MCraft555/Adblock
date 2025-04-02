@@ -1,0 +1,2 @@
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 heads-fa.spotify.com
